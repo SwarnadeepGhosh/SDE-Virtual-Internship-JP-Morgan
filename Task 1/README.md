@@ -47,7 +47,7 @@ Before you can tackle any software or development task you need to set up your d
 
 To do this we've created a simple PDF guide below on how to get your environment set up:
 
-- [Setting up your dev environment -- setup_devenv_m1_v6.pdf](/setup_devenv_m1_v6.pdf)
+- [Setting up your dev environment -- setup_devenv_m1_v6.pdf](setup_devenv_m1_v6.pdf)
 - [REPL environment for python 3 or higher](https://repl.it/@JoeFerrer/JPM-MODULE1-PY3-REPL)
 
 
