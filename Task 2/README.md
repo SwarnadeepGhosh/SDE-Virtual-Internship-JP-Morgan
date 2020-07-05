@@ -46,23 +46,23 @@ To do this we've created a simple PDF guide below on how to get your environment
 
 After setup output :
 
-Server side `server3.py` ![server3](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 2\img\server3.png)
-
+Server side `server3.py` 
+![server3](img/server3.png)
 
 
 Client Side CLI `npm start` :
 
-![client-first-run](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 2\img\client-first-run.png)
+![client-first-run](img/client-first-run.png)
 
 
 
 Client Side Browser output `localhost:3000`
 
-![client-running](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 2\img\client-running.png)
+![client-running](img/client-running.png)
 
 **Client Side Initial (After clicking `Start Streaming Data`)**
 
-![client-initial](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 2\img\client-initial.png)
+![client-initial](img/client-initial.png)
 
 ### **Making Changes**
 
@@ -103,8 +103,8 @@ This will start server on `http://localhost:3000/` or `http://192.168.43.107:300
 
 **Client Final Visualisation Setup**
 
-![client-final-setup](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 2\img\client-final-setup.png)
+![client-final-setup](img/client-final-setup.png)
 
 **Client Final Visualisation Graph (updating real time after 110 ms)**
 
-![client-final](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 2\img\client-final.png)
+![client-final](img/client-final.png)
