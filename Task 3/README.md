@@ -52,7 +52,9 @@ npm start
 
 **Initial Graph**
 
-![initial-graph](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 3\img\initial-graph.png)
+![initial-graph-setup](img/initial-graph-setup.png)
+
+![initial-graph](img/initial-graph.png)
 
 
 
@@ -80,15 +82,15 @@ Making Changes guide -->> [making_changes_m3_v2.pdf](making_changes_m3_v2.pdf)
 
 **Final Graph Setup**:
 
-![final-setup](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 3\img\final-setup.png)
+![final-setup](img/final-setup.png)
 
 
 
 **Final Graphs :** 
 
-![final-graph-1](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 3\img\final-graph-1.png)
+![final-graph-1](img/final-graph-1.png)
 
-![final-graph-2](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 3\img\final-graph-2.png)
+![final-graph-2](img/final-graph-2.png)
 
 
 
