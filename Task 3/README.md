@@ -40,6 +40,20 @@ To do this we've created a simple PDF guide below on how to get your environment
 
 View this for environment setup -->> [setup_devenv_m3_v3.pdf](setup_devenv_m3_v3.pdf)
 
+**To start the server :** 
+
+```powershell
+python datafeed/server3.py
+```
+
+```powershell
+npm start
+```
+
+**Initial Graph**
+
+![initial-graph](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 3\img\initial-graph.png)
+
 
 
 **Making Changes**
@@ -61,3 +75,22 @@ Acceptance Criteria
 To properly make the changes necessary to complete the objectives of this task, follow the guide below.
 
 Making Changes guide -->> [making_changes_m3_v2.pdf](making_changes_m3_v2.pdf)
+
+
+
+**Final Graph Setup**:
+
+![final-setup](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 3\img\final-setup.png)
+
+
+
+**Final Graphs :** 
+
+![final-graph-1](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 3\img\final-graph-1.png)
+
+![final-graph-2](D:\COURSE Modules\My Courses\SDE JP Morgan Internship\Task 3\img\final-graph-2.png)
+
+
+
+
+
