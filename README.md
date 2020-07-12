@@ -11,3 +11,5 @@ Using Perspective to create the chart for the trader’s dashboard
 
 ### [Bonus task: Open source contribution](https://github.com/SwarnadeepGhosh/SDE-Virtual-Internship-JP-Morgan/tree/master/Task%204)
 Making a contribution to Perspective or other project backlogs
+
+View my [Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/JP%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_WSuyE49mxs8c9mk4y_completion_certificate.pdf)
